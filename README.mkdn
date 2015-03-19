@@ -81,7 +81,7 @@ hesitate to report any you find, using either CPAN or GitHub.
 
 # VERSION
 
-version 1.00
+version 1.01
 
 # REVISION
 

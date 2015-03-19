@@ -11,7 +11,7 @@ use File::Basename qw(dirname);
 use File::Spec;
 use Scalar::Util qw(blessed);
 
-our($VERSION) = '1.00';
+our($VERSION) = '1.01';
 
 sub auto_load_fixups {
   my($self,@args) = @_;
@@ -182,7 +182,7 @@ L<Rose::DB>
 
 =head1 VERSION
 
-version 1.00
+version 1.01
 
 =head1 REVISION
 
